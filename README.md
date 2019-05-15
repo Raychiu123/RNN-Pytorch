@@ -1,5 +1,5 @@
 # RNN-Pytorch
-Recurrent Neural Network for Prediction of Paper Acceptance
+<!---Recurrent Neural Network for Prediction of Paper Acceptance --->
 
 ## Dataset:
 Dataset came from ICLR 2018 and ICLR 2017, and I used web crawler to collect the data.
